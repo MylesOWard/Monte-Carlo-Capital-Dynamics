@@ -1,4 +1,4 @@
-# Monte Carlo Drawdown and Ruin Risk
+# Monte Carlo Capital Dynamics
 ### Capital Dynamics and Position Sizing Under Stochastic Returns
 
 This repository is a small research toolkit for analysing **capital allocation, drawdown risk, and ruin probabilities** under repeated exposure to a stochastic return process with negative expected value.
